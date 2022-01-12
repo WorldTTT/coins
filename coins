@@ -10384,5 +10384,18 @@
       "type": "ZHTLC"
     },
     "required_confirmations": 1
-  }
-]
+  },
+  {
+        "coin": “TTT”,
+        "protocol": {
+          "type": "SLPTOKEN",
+          "protocol_data": {
+            "decimals": 2,
+            "token_id": "5321508197ffed321c5fc9a1427e5c68b31d2c1ec92ae1c495f8acb08d8d66cd",
+            "platform": "BCH",
+            "required_confirmations": 1
+          }
+        },
+        "mm2": 1
+      }
+    ]
